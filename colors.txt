@@ -1,0 +1,3 @@
+#0B1932 - dark blue, Background color
+#393BE5 - mid blue, text
+#9b9ce1 - light blue, background for text
